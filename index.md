@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Prayers
 
-I'm glad you are here. I plan to talk about ...
+Prayers to chant. Prayers to share.
