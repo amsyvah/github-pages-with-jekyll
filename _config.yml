@@ -1,8 +1,8 @@
 title: A webpage experiment
 author: amsyvah
 email: s99...@gm..com
-description: This is a simple webpage
-theme: minima
+description: This is an webpage with an attempt to delete repetition of title etc. in reader's view.
+theme: architect
 # social links
 twitter_username: willcreateatwitterhandle # DO NOT include the @ character, or else the build will fail!
 github_username:  amsyvah # DO NOT include the @ character, or else the build will fail!
